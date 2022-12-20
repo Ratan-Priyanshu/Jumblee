@@ -16,9 +16,6 @@ and you need to guess the word meanwhile if you get stuck you can also take help
 *  To make the game more interesting we	put the limitation  maximum 3 hints only
 *  At the end you will get the overall score.
 
-![image](https://user-images.githubusercontent.com/120351893/208624803-945aedd6-eda5-4d05-ab88-b32454ba9f0a.png)
-![image](https://user-images.githubusercontent.com/120351893/208624628-6c265bf3-97c8-4ca3-92b7-c84c1e29b779.png)
-![image](https://user-images.githubusercontent.com/120351893/208624297-808a2c98-5a51-45a9-8901-9b481bf9a4b4.png)
 
 It's a Python Hackathon Project !
 Team Members:
