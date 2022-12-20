@@ -1,4 +1,7 @@
-#    pyproject
+#JUMBLEE
+
+#open main.py to play game, after
+downloading all files and pasting in same directory
 --------------------------------------------------------------------------------------------------------------
 Word Jumble is one of the most popular and  challenging games that will test, not only
 your vocabulary, but also your spelling skills.
